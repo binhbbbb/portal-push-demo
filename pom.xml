@@ -3,9 +3,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.vaadin.artur</groupId>
-	<artifactId>portal-push</artifactId>
+	<artifactId>portal-push-demo</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<name>portal-push portlet</name>
+	<name>Demo portlet for using Vaadin Push in Portals</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
