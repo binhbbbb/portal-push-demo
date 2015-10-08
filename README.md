@@ -1,4 +1,4 @@
-# portal-push
+# portal-push-demo
 Proof of Concept of using Vaadin push in a portal
 
 # Using with any portal
