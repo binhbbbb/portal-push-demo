@@ -15,7 +15,7 @@
 
 		<init-param>
 			<name>UI</name>
-			<value>org.vaadin.artur.chat.portlet.ChatUI</value>
+			<value>org.vaadin.artur.portalpushdemo.PortalPushDemoUI</value>
 		</init-param>
 
 		<init-param>
